@@ -69,3 +69,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+body {
+  font-size: 1.6em;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #fff;
+  background-color: #242424;
+}
